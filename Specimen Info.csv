@@ -1,40 +1,40 @@
-ID,Level,CT_Scanned,ND_Test_Date,ND_Pos_Disp_Limit_Actually_Used_mm,Specimen_Mass_kg,Balancing_Mass_kg,Age,Sex,Race,Weight_kg,Height_cm,Cause_of_Death,sup_enplate_ap_width_from_lat_view_mm,inf_enplate_ap_width_from_lat_view_mm,avg_ap_width_from_lat_view_mm,avg_fsu_vertebral_body_volume_mm3,avg_vert_body_treb_bv_fraction,Disc_Degen_Score,Disc_Degen_Grade,DD_Height_Loss,DD_Ant_OP,DD_Endplate_Sclerosis,FJ_Degen_Score,FJ_Degen_Grade,FJD_Hypertrophy,FJD_Osteophytes,FJD_Surface_Irregularity,FJD_Joint_Narrowing
-H1,C6C7,TRUE,7/8/2022,1.72,2.069,2.6535,67,M,Caucasian,120,180,Myocardial Infarction,15.4,14,14.7,1961.84,0.2045,1,mild,0,0,1,1,mild,0,0,0,1
-H2,C6C7,TRUE,6/29/2022,2.613,2.063,2.6505,73,F,,,,,16.5,15.7,16.1,1940.41,0.017,1,mild,0,1,0,1,mild,0,1,0,0
-H3,C6C7,TRUE,7/27/2022,3.5,2.04,2.639,69,M,,,,,17.3,16.8,17.05,2816.95,0.092,0,none,0,0,0,1,mild,0,1,0,0
-H4,C6C7,TRUE,7/28/2022,3.5,2.059,2.6485,57,F,Caucasian,104,163,Rheumatic Heart Disease,15.7,17.3,16.5,1356.87,0.5201,4,moderate,0,3,1,3,moderate,2,1,0,0
-H5,C6C7,TRUE,7/28/2022,3.5,2.066,2.652,59,F,Caucasian,41,163,Pneumonia,13.7,14.3,14,1567.5,0.2385,2,mild,0,1,1,3,moderate,2,1,0,0
-H6,C6C7,TRUE,8/24/2022,2.7,2.066,2.652,49,M,Caucasian,122,173,unknown,19.8,20.3,20.05,1775.36,0.881,3,mild,0,2,1,3,moderate,1,1,0,1
-H7,C6C7,TRUE,8/25/2022,2.8,2.073,2.6555,57,M,Caucasian,104,173,Cardiac Arrest,18.8,17.6,18.2,1870.41,0.7439,3,mild,0,2,1,2,moderate,0,1,0,1
-H8,C6C7,TRUE,8/17/2022,2.94,2.088,2.663,65,F,Caucasian,64,170,Acute myeloid leukemia,16.3,16.9,16.6,1928.08,0.4122,5,moderate,2,2,1,2,moderate,1,1,0,0
-H9,C6C7,TRUE,7/8/2022,2.92,2.074,2.656,48,M,Caucasian,136,183,Prostate Cancer,16.4,16.3,16.35,1904.63,0.9196,3,mild,0,1,2,3,moderate,1,1,0,1
-H10,C6C7,FALSE,8/18/2022,3.2,2.1,2.669,61,M,Caucasian,113,183,Non Small Cell Lung Cancer,18.2,19.1,18.65,N/A,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-H11,C6C7,TRUE,7/28/2022,2.84,2.077,2.6575,49,M,Caucasian,50,173,Lung Cancer,16.6,16.9,16.75,1802.89,0.6652,3,mild,1,1,1,2,moderate,0,0,1,1
-H12,C6C7,TRUE,7/7/2022,3.07,2.098,2.668,57,F,Caucasian,136,155,Myocardial Rupture,17,16.4,16.7,1455.86,0.5467,2,mild,0,1,1,1,mild,0,1,0,0
-H13,C6C7,TRUE,9/1/2022,3.6,1.985,2.6115,44,F,Caucasian,59,163,Blunt force trauma to head,14.9,14.8,14.85,1410,0.7502,4,moderate,1,1,2,2,moderate,0,1,0,1
-H14,C6C7,TRUE,8/31/2022,3.44,1.978,2.608,48,F,Caucasian,122,168,ACD,15,14.2,14.6,1579.6,0.6178,0,none,0,0,0,2,moderate,0,1,0,1
-H15,C6C7,TRUE,7/29/2022,3.5,2.088,2.663,64,M,Caucasian,86.5,183,Stroke,18.5,18,18.25,2292.18,0.3088,3,mild,0,2,1,3,moderate,0,1,1,1
-H16,C6C7,TRUE,7/20/2022,2.61,2.067,2.6525,71,F,Caucasian,64,170,CAD,16.3,15.2,15.75,1913.13,0.566,5,moderate,1,2,2,3,moderate,1,1,0,1
-H17,C6C7,TRUE,7/21/2022,3.5,2.092,2.665,70,F,Caucasian,95,165,Renal Disease,16.1,16.5,16.3,1653.92,0.466,6,moderate,2,2,2,4,severe,2,1,0,1
-H18,C6C7,TRUE,7/21/2022,3.2,2.105,2.6715,67,M,Caucasian,67,180,CVA,16.7,17.4,17.05,2667.03,0.6155,4,moderate,2,1,1,2,moderate,0,1,1,0
-H19,C6C7,TRUE,8/31/2022,3.3,1.966,2.602,58,F,Caucasian,82,170,,15.4,15.7,15.55,2011.18,0.6541,0,none,0,0,0,4,severe,2,1,0,1
-H20,C6C7,TRUE,8/25/2022,2.1,2.094,2.666,69,M,Caucasian,82,170,Melanoma,19.2,17,18.1,2407.34,0.7736,7,severe,2,3,2,3,moderate,1,1,0,1
-H21,C6C7,TRUE,7/7/2022,1.599,2.057,2.6475,66,F,Caucasian,52,157,Cardiopulmonary Arrest,13.4,12.5,12.95,1451.66,0.5834,7,severe,4,1,2,4,severe,2,1,0,1
-H22,C6C7,TRUE,9/1/2022,3,1.993,2.6155,62,M,Caucasian,127,175,Congestive Heart Failure,22,21.2,21.6,3693.93,0.5415,4,moderate,2,1,1,3,moderate,1,1,1,0
-H23,C6C7,TRUE,7/8/2022,2.14,2.074,2.656,68,F,Caucasian,75,165,Cancer,19.4,19,19.2,2199.12,0.6012,4,moderate,1,2,1,3,moderate,1,1,0,1
-H24,C6C7,TRUE,7/29/2022,2.4,2.083,2.6605,74,F,Caucasian,68,152,Cardiopulmonary Arrest,17.5,17.4,17.45,1968.44,0.4261,7,severe,4,2,1,3,moderate,1,1,0,1
-H25,C6C7,TRUE,7/22/2022,1.87,2.139,2.6885,66,M,Black/African-American,127,188,CHF,24.2,24.3,24.25,2412.76,0.5071,4,moderate,0,2,2,3,moderate,1,1,0,1
-H26,C6C7,TRUE,7/29/2022,2.203,2.093,2.6655,74,F,Caucasian,77,170,COPD,19.3,19.4,19.35,2693.3,0.4131,4,moderate,1,2,1,2,moderate,1,1,0,0
-H27,C6C7,TRUE,7/20/2022,2.73,2.035,2.6365,72,F,Caucasian,59,165,Lung Cancer,17.6,18.8,18.2,1887.3,0.3383,3,mild,1,1,1,3,moderate,1,1,0,1
-H28,C6C7,TRUE,8/19/2022,2.5,2.104,2.671,72,M,Caucasian,100,178,Cardiac Arrest,16.3,17.2,16.75,2812.6,0.6302,2,mild,0,1,1,2,moderate,0,1,0,1
-H29,C6C7,TRUE,8/24/2022,3.5,1.965,2.6015,48,F,Caucasian,64,168,Fronto-Temporal Dementia,16.5,16.8,16.65,2178.38,0.5958,1,mild,0,1,0,0,none,0,0,0,0
-H30,C6C7,TRUE,7/21/2022,3.76,2.07,2.654,53,F,Caucasian,59,160,Liver Failure,14.4,12.6,13.5,1367.68,0.7813,1,mild,0,1,0,4,severe,1,1,1,1
-H31,C6C7,TRUE,7/27/2022,3.09,2.048,2.643,36,M,Caucasian,64,183,Melanoma,17.5,17.6,17.55,2348.24,0.363,0,none,0,0,0,3,moderate,1,1,0,1
-H32,C6C7,TRUE,8/17/2022,2.27,2.075,2.6565,40,M,Caucasian,84,160,Aspiration; areteris thelumed mycus,16.5,17.3,16.9,2391.36,0.6508,4,moderate,1,2,1,1,mild,0,1,0,0
-H33,C6C7,TRUE,8/26/2022,3.85,2.102,2.67,46,M,Caucasian,84,180,Arteriosclerotic Cardiovascular Disease,21.4,21.4,21.4,2724.18,0.4222,2,mild,1,1,0,3,moderate,1,1,0,1
-H34,C6C7,TRUE,8/17/2022,3,2.083,2.6605,47,M,Caucasian,110,183,Myocardial Infarction,18.6,19.3,18.95,2472.88,0.2901,2,mild,1,1,0,3,moderate,1,1,0,1
-H35,C6C7,TRUE,7/7/2022,2.18,2.133,2.6855,74,M,Caucasian,70,188,Lung Cancer,19.3,18.6,18.95,3120.91,0.6991,6,moderate,3,1,2,3,moderate,0,1,1,1
-H36,C6C7,TRUE,6/30/2022,3.68,2.094,2.666,63,M,Caucasian,77,183,Cardiorespiratory Failure,16.5,17.8,17.15,2766.85,0.2331,2,mild,0,1,1,3,moderate,1,1,0,1
-H37,C6C7,TRUE,7/22/2022,1.5,2.122,2.68,54,M,Caucasian,88,185,Acute Hypoxic Respiratory Failure; Cardiac Arrest,23.3,21.2,22.25,2759.87,0.6131,7,severe,2,3,2,3,moderate,1,1,0,1
-H38,C6C7,TRUE,7/21/2022,4,2.091,2.6645,64,F,Caucasian,82,170,Fronto-Temporal Dementia,15.8,16.6,16.2,2136.1936,0.3126,2,mild,0,1,1,1,mild,0,1,0,0
-H39,C6C7,TRUE,7/29/2022,3.35,2.102,2.67,61,M,Caucasian,125,183,Malignant Neoplasm of Brain,21,21.2,21.1,2948.03,0.31,2,mild,0,1,1,3,moderate,1,1,0,1
+ID,Level,CT_Scanned,ND_Test_Date,Specimen_Mass_kg,Balancing_Mass_kg,Age,Sex,Race,Weight_kg,Height_cm,Cause_of_Death,sup_enplate_ap_width_from_lat_view_mm,inf_enplate_ap_width_from_lat_view_mm,avg_ap_width_from_lat_view_mm,avg_fsu_vertebral_body_volume_mm3,avg_vert_body_treb_bv_fraction,Disc_Degen_Score,Disc_Degen_Grade,DD_Height_Loss,DD_Ant_OP,DD_Endplate_Sclerosis,FJ_Degen_Score,FJ_Degen_Grade,FJD_Hypertrophy,FJD_Osteophytes,FJD_Surface_Irregularity,FJD_Joint_Narrowing
+H1,C6C7,TRUE,7/8/2022,2.069,2.6535,67,M,Caucasian,120,180,Myocardial Infarction,15.4,14,14.7,1961.84,0.2045,1,mild,0,0,1,1,mild,0,0,0,1
+H2,C6C7,TRUE,6/29/2022,2.063,2.6505,73,F,,,,,16.5,15.7,16.1,1940.41,0.017,1,mild,0,1,0,1,mild,0,1,0,0
+H3,C6C7,TRUE,7/27/2022,2.04,2.639,69,M,,,,,17.3,16.8,17.05,2816.95,0.092,0,none,0,0,0,1,mild,0,1,0,0
+H4,C6C7,TRUE,7/28/2022,2.059,2.6485,57,F,Caucasian,104,163,Rheumatic Heart Disease,15.7,17.3,16.5,1356.87,0.5201,4,moderate,0,3,1,3,moderate,2,1,0,0
+H5,C6C7,TRUE,7/28/2022,2.066,2.652,59,F,Caucasian,41,163,Pneumonia,13.7,14.3,14,1567.5,0.2385,2,mild,0,1,1,3,moderate,2,1,0,0
+H6,C6C7,TRUE,8/24/2022,2.066,2.652,49,M,Caucasian,122,173,unknown,19.8,20.3,20.05,1775.36,0.881,3,mild,0,2,1,3,moderate,1,1,0,1
+H7,C6C7,TRUE,8/25/2022,2.073,2.6555,57,M,Caucasian,104,173,Cardiac Arrest,18.8,17.6,18.2,1870.41,0.7439,3,mild,0,2,1,2,moderate,0,1,0,1
+H8,C6C7,TRUE,8/17/2022,2.088,2.663,65,F,Caucasian,64,170,Acute myeloid leukemia,16.3,16.9,16.6,1928.08,0.4122,5,moderate,2,2,1,2,moderate,1,1,0,0
+H9,C6C7,TRUE,7/8/2022,2.074,2.656,48,M,Caucasian,136,183,Prostate Cancer,16.4,16.3,16.35,1904.63,0.9196,3,mild,0,1,2,3,moderate,1,1,0,1
+H10,C6C7,FALSE,8/18/2022,2.1,2.669,61,M,Caucasian,113,183,Non Small Cell Lung Cancer,18.2,19.1,18.65,N/A,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+H11,C6C7,TRUE,7/28/2022,2.077,2.6575,49,M,Caucasian,50,173,Lung Cancer,16.6,16.9,16.75,1802.89,0.6652,3,mild,1,1,1,2,moderate,0,0,1,1
+H12,C6C7,TRUE,7/7/2022,2.098,2.668,57,F,Caucasian,136,155,Myocardial Rupture,17,16.4,16.7,1455.86,0.5467,2,mild,0,1,1,1,mild,0,1,0,0
+H13,C6C7,TRUE,9/1/2022,1.985,2.6115,44,F,Caucasian,59,163,Blunt force trauma to head,14.9,14.8,14.85,1410,0.7502,4,moderate,1,1,2,2,moderate,0,1,0,1
+H14,C6C7,TRUE,8/31/2022,1.978,2.608,48,F,Caucasian,122,168,ACD,15,14.2,14.6,1579.6,0.6178,0,none,0,0,0,2,moderate,0,1,0,1
+H15,C6C7,TRUE,7/29/2022,2.088,2.663,64,M,Caucasian,86.5,183,Stroke,18.5,18,18.25,2292.18,0.3088,3,mild,0,2,1,3,moderate,0,1,1,1
+H16,C6C7,TRUE,7/20/2022,2.067,2.6525,71,F,Caucasian,64,170,CAD,16.3,15.2,15.75,1913.13,0.566,5,moderate,1,2,2,3,moderate,1,1,0,1
+H17,C6C7,TRUE,7/21/2022,2.092,2.665,70,F,Caucasian,95,165,Renal Disease,16.1,16.5,16.3,1653.92,0.466,6,moderate,2,2,2,4,severe,2,1,0,1
+H18,C6C7,TRUE,7/21/2022,2.105,2.6715,67,M,Caucasian,67,180,CVA,16.7,17.4,17.05,2667.03,0.6155,4,moderate,2,1,1,2,moderate,0,1,1,0
+H19,C6C7,TRUE,8/31/2022,1.966,2.602,58,F,Caucasian,82,170,,15.4,15.7,15.55,2011.18,0.6541,0,none,0,0,0,4,severe,2,1,0,1
+H20,C6C7,TRUE,8/25/2022,2.094,2.666,69,M,Caucasian,82,170,Melanoma,19.2,17,18.1,2407.34,0.7736,7,severe,2,3,2,3,moderate,1,1,0,1
+H21,C6C7,TRUE,7/7/2022,2.057,2.6475,66,F,Caucasian,52,157,Cardiopulmonary Arrest,13.4,12.5,12.95,1451.66,0.5834,7,severe,4,1,2,4,severe,2,1,0,1
+H22,C6C7,TRUE,9/1/2022,1.993,2.6155,62,M,Caucasian,127,175,Congestive Heart Failure,22,21.2,21.6,3693.93,0.5415,4,moderate,2,1,1,3,moderate,1,1,1,0
+H23,C6C7,TRUE,7/8/2022,2.074,2.656,68,F,Caucasian,75,165,Cancer,19.4,19,19.2,2199.12,0.6012,4,moderate,1,2,1,3,moderate,1,1,0,1
+H24,C6C7,TRUE,7/29/2022,2.083,2.6605,74,F,Caucasian,68,152,Cardiopulmonary Arrest,17.5,17.4,17.45,1968.44,0.4261,7,severe,4,2,1,3,moderate,1,1,0,1
+H25,C6C7,TRUE,7/22/2022,2.139,2.6885,66,M,Black/African-American,127,188,CHF,24.2,24.3,24.25,2412.76,0.5071,4,moderate,0,2,2,3,moderate,1,1,0,1
+H26,C6C7,TRUE,7/29/2022,2.093,2.6655,74,F,Caucasian,77,170,COPD,19.3,19.4,19.35,2693.3,0.4131,4,moderate,1,2,1,2,moderate,1,1,0,0
+H27,C6C7,TRUE,7/20/2022,2.035,2.6365,72,F,Caucasian,59,165,Lung Cancer,17.6,18.8,18.2,1887.3,0.3383,3,mild,1,1,1,3,moderate,1,1,0,1
+H28,C6C7,TRUE,8/19/2022,2.104,2.671,72,M,Caucasian,100,178,Cardiac Arrest,16.3,17.2,16.75,2812.6,0.6302,2,mild,0,1,1,2,moderate,0,1,0,1
+H29,C6C7,TRUE,8/24/2022,1.965,2.6015,48,F,Caucasian,64,168,Fronto-Temporal Dementia,16.5,16.8,16.65,2178.38,0.5958,1,mild,0,1,0,0,none,0,0,0,0
+H30,C6C7,TRUE,7/21/2022,2.07,2.654,53,F,Caucasian,59,160,Liver Failure,14.4,12.6,13.5,1367.68,0.7813,1,mild,0,1,0,4,severe,1,1,1,1
+H31,C6C7,TRUE,7/27/2022,2.048,2.643,36,M,Caucasian,64,183,Melanoma,17.5,17.6,17.55,2348.24,0.363,0,none,0,0,0,3,moderate,1,1,0,1
+H32,C6C7,TRUE,8/17/2022,2.075,2.6565,40,M,Caucasian,84,160,Aspiration; areteris thelumed mycus,16.5,17.3,16.9,2391.36,0.6508,4,moderate,1,2,1,1,mild,0,1,0,0
+H33,C6C7,TRUE,8/26/2022,2.102,2.67,46,M,Caucasian,84,180,Arteriosclerotic Cardiovascular Disease,21.4,21.4,21.4,2724.18,0.4222,2,mild,1,1,0,3,moderate,1,1,0,1
+H34,C6C7,TRUE,8/17/2022,2.083,2.6605,47,M,Caucasian,110,183,Myocardial Infarction,18.6,19.3,18.95,2472.88,0.2901,2,mild,1,1,0,3,moderate,1,1,0,1
+H35,C6C7,TRUE,7/7/2022,2.133,2.6855,74,M,Caucasian,70,188,Lung Cancer,19.3,18.6,18.95,3120.91,0.6991,6,moderate,3,1,2,3,moderate,0,1,1,1
+H36,C6C7,TRUE,6/30/2022,2.094,2.666,63,M,Caucasian,77,183,Cardiorespiratory Failure,16.5,17.8,17.15,2766.85,0.2331,2,mild,0,1,1,3,moderate,1,1,0,1
+H37,C6C7,TRUE,7/22/2022,2.122,2.68,54,M,Caucasian,88,185,Acute Hypoxic Respiratory Failure; Cardiac Arrest,23.3,21.2,22.25,2759.87,0.6131,7,severe,2,3,2,3,moderate,1,1,0,1
+H38,C6C7,TRUE,7/21/2022,2.091,2.6645,64,F,Caucasian,82,170,Fronto-Temporal Dementia,15.8,16.6,16.2,2136.1936,0.3126,2,mild,0,1,1,1,mild,0,1,0,0
+H39,C6C7,TRUE,7/29/2022,2.102,2.67,61,M,Caucasian,125,183,Malignant Neoplasm of Brain,21,21.2,21.1,2948.03,0.31,2,mild,0,1,1,3,moderate,1,1,0,1
