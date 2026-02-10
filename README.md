@@ -15,6 +15,7 @@ The .csv files are laid out such that:
 - Columns 1-3 are the X, Y, Z displacements of the superior vertebra relative to the inferior, measured im mm.
 - Columns 4-6 are the X, Y, Z rotations of the same, measured in degrees.
 - Columns 7-9 are the X, Y, Z loads generated during the test.
+- Columns 10-12 are the X, Y, Z moments generated during the test, in Newton-Meters.
 
 ## Specimen Info.csv
 
@@ -23,6 +24,7 @@ This file contains demographic and anthropometric data for each specimen.
 - **Level**: FSU level. For this dataset, all specimens were at the C6/C7 level.
 - **CT_Scanned**: Boolean representing whether CT scans were taken of the specimen.
 - **ND_Test_Date**: Date when testing occured, in MM/DD/YYYY format.
+- **Disc_Offset_mm**: The offset between the superior side of the fixturing and the load application point, adjusted for each specimen such that the loading line of action goes through the mid-disc plane, ensuring pure shear without any bending moment.
 - **Specimen_Mass_kg**: Mass of the specimen, in kg, including PMMA potting, reinforcements, and specimen mounting plates
 - **Balancing_Mass_kg**: Counterbalance mass used for the test, in kg, made up of half of the total specimen mass and the mass of the superior fixturing hardware.
 - **Age**: Age of donor, in years.
