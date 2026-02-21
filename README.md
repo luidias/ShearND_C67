@@ -1,7 +1,23 @@
 # Noninjurious C6C7 Shear Data
-This repository contains processed data used in the analysis of the biomechanical response of thirty-nine human Functional Spinal Units (FSUs) at the C6/C7 level when subjeceted to  pure shear loading. This data is provided here in full to facilitate FE model validation efforts.
+This repository contains processed data used in the analysis of the biomechanical response of thirty-nine human Functional Spinal Units (FSUs) at the C6/C7 level when subjected to  pure shear loading. This data is provided here in full to facilitate FE model validation efforts. Detailed models of test fixturing is also included.
 
-## Load-displacement data
+## Fixturing
+This directory contains fixturing models and necessary information for their use.
+
+- 'Assembly Diagrams.pdf' contains a labeled Bill of Materials and a schematic of how the components are assembled
+- 'Fixturing Guide.pdf' contains information on fixture alignment as well as shear load and balancing mass application locations, and a more detailed Bill of Materials.
+
+### Solidworks
+This subdirectory contains models of all components (.SLDPRT) and the full assembly (.SLDASM) of the fixturing, generated in Solidworks 2025.
+
+### STEP
+
+This subdirectory contains models of all components as .STEP files, for wider compatibility with other CAD software. 
+- The 'Individual Components' folder contains all component files separately.
+- The 'Joined Components' folder contains aggregated .STEP files for the main fixturing and the mobile carriage. These must be positioned relative to each other according to the Disc Offset parameter. See the "Fixturing Guide" document for more details.
+
+## Load-Displacement data
+
 This directory contains sub-directories for each specimen (H1, H2, etc.), which in turn contain .csv files for individual tests on the given specimen. There are six files per specimen, one for each test condition (Anterior/posterior directions and 1, 10, and 100 mm/s). Test condition is reflected in the file name.
 
 These files contain the 3D displacements, rotations, and loads that were experienced by the FSU under the respective test condition. The X, Y, and Z axes were aligned with the anatomical axes:
